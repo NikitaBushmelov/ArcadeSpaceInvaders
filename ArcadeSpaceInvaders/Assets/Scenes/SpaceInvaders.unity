@@ -387,7 +387,7 @@ GameObject:
   - component: {fileID: 1891570967}
   - component: {fileID: 1891570966}
   m_Layer: 0
-  m_Name: Border (1)
+  m_Name: Border
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -446,7 +446,7 @@ GameObject:
   - component: {fileID: 2001523904}
   - component: {fileID: 2001523903}
   m_Layer: 0
-  m_Name: Bunker (1)
+  m_Name: Bunker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -557,7 +557,7 @@ GameObject:
   - component: {fileID: 2100295553}
   - component: {fileID: 2100295552}
   m_Layer: 0
-  m_Name: Bunker (2)
+  m_Name: Bunker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
